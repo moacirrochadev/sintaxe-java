@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "AboutMe",
+      "projectName": "sintaxe-java_68ea9559"
+    },
+    {
+      "type": "java",
       "name": "MinhaClasse",
       "request": "launch",
       "mainClass": "neto.estudos.firstweek.MinhaClasse",
