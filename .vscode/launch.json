@@ -9,7 +9,25 @@
       "name": "AboutMe",
       "request": "launch",
       "mainClass": "AboutMe",
+<<<<<<< HEAD
       "projectName": "sintaxe-java_8357fa46"
+=======
+      "projectName": "sintaxe-java_68ea9559"
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse",
+      "request": "launch",
+      "mainClass": "neto.estudos.firstweek.MinhaClasse",
+      "projectName": "sintaxe-java_68ea9559"
+    },
+    {
+      "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "neto.estudos.firstweek.Usuario",
+      "projectName": "sintaxe-java_68ea9559"
+>>>>>>> 0e5fcf1352a59a6e1839aa21656e1859d12aada6
     },
     {
       "type": "java",
